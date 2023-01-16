@@ -21,7 +21,7 @@ env:
   FLAVOR: "eng"
   # eng by default, change the variable if you want userdebug
   SOURCE: "twrp"
-  # Set as omni (or twrp if using v3_11.0)
+  # Set as omni (or twrp if using v3_9.0)
   EXTRA_CMD: ""
   # For qualcomm FDE devices put git clone https://github.com/omnirom/android_vendor_qcom_opensource_commonsys --depth=1 -b android-9.0 vendor/qcom/opensource/commonsys in EXTRA CMD
   # If you want to Execute any external Command Before Compilation Starts
